@@ -24,6 +24,6 @@ A comma-separated value file which contains the data that will be operated on. T
 - Method of extraction: Traditional, Continuous 2 or 3 phase and Other
 ### File: test_project.py
 Test file for our *project.py* code, which allows us to run unit tests for the respective functions ensuring that the program is operating as it should. To avoid altering the data during these tests, a test_file was generated (*test_olive_oil_census2020.csv*)
-### Directory: proj_venv
+### File: requirements.txt
 
-A directory containing a virtual environment which includes all the libraries used for the project (please note that it is configured for windows)
+A file which contains all the libraries used for the execution of this project, which can be downloaded by pip -install.
